@@ -26,7 +26,7 @@ Don't forget to *like the video* if you found it insightful, and *subscribe* to 
 
 ---
 
-DeepSeek: A Geopolitical AI Powerhouse
+## DeepSeek: A Geopolitical AI Powerhouse
 
 Okay, after reviewing our conversation and the sources, here are some additional topics and analyses that would be interesting for our target audience, keeping in mind a Western YouTube audience:
 
@@ -70,7 +70,7 @@ In summary, while we've covered key aspects of DeepSeek, exploring these additio
 
 ---
 
-DeepSeek's AI: Cost, Reasoning, and Geopolitics
+## DeepSeek's AI: Cost, Reasoning, and Geopolitics
 
 Okay, here's a comprehensive response to your questions, tailored for a Western YouTube audience and drawing from the provided sources:
 
@@ -126,7 +126,7 @@ In conclusion, while there is a potential for genuine democratization of AI with
 
 ---
 
-DeepSeek: Disrupting the AI Landscape
+## DeepSeek: Disrupting the AI Landscape
 
 Okay, here are the answers to your questions, tailored for a Western YouTube audience, with the most important parts in bold:
 
@@ -202,7 +202,7 @@ In summary, while DeepSeek has indeed been resourceful in circumventing US expor
 
 ---
 
-DeepSeek: Geopolitical Implications and Market Impact
+## DeepSeek: Geopolitical Implications and Market Impact
 
 Okay, here are the answers to your questions, tailored for a Western YouTube audience, and drawing from the provided sources:
 
@@ -262,7 +262,7 @@ In summary, DeepSeek’s impact on the AI landscape extends beyond its own techn
 
 ---
 
-DeepSeek: Efficiency, Business Model, and Open-Source Risks
+## DeepSeek: Efficiency, Business Model, and Open-Source Risks
 
 Okay, here are the answers to your questions, tailored for a Western YouTube audience, and drawing from the provided sources and our conversation history:
 
@@ -342,7 +342,7 @@ Open-source AI models like DeepSeek's offer significant promise, but it is also 
 
 ---
 
-DeepSeek: AI Innovation in China
+## DeepSeek: AI Innovation in China
 
 Okay, here are the answers to your questions, tailored for a Western YouTube audience, and drawing from the provided sources and our conversation history:
 
@@ -398,7 +398,7 @@ In summary, the MoE architecture is a crucial factor in DeepSeek's ability to de
 
 ---
 
-DeepSeek, Western AI, and the Future of AI Development
+## DeepSeek, Western AI, and the Future of AI Development
 
 Okay, here are the answers to your questions, tailored for a Western YouTube audience, and drawing from the provided sources and our conversation history:
 
@@ -474,7 +474,7 @@ Overall, DeepSeek’s journey highlights that AI innovation doesn't require vast
 
 ---
 
-DeepSeek: A Sputnik Moment in AI
+## DeepSeek: A Sputnik Moment in AI
 
 Okay, here are the answers to your questions, tailored for a Western YouTube audience, and drawing from the provided sources and our conversation history:
 
@@ -534,7 +534,7 @@ In conclusion, DeepSeek's emergence is a significant moment in the AI race, acti
 
 ---
 
-DeepSeek's Impact on Big Tech Investments
+## DeepSeek's Impact on Big Tech Investments
 
 Okay, here is an explanation of how DeepSeek's release is potentially affecting your big tech stock investments, focusing on the causal links and long-term implications.
 
@@ -590,7 +590,7 @@ DeepSeek's release is directly and negatively impacting your big tech stock inve
 
 ---
 
-DeepSeek's Disruption: A New Era in AI
+## DeepSeek's Disruption: A New Era in AI
 
 Okay, here is a comprehensive summary of the recent news surrounding DeepSeek, its implications, and its potential role in the decrease of big tech stock values.
 
@@ -640,7 +640,7 @@ DeepSeek's recent developments, particularly the release of R1, have created sig
 
 ---
 
-DeepSeek: A Chinese AI Company Disrupting the Global Market
+## DeepSeek: A Chinese AI Company Disrupting the Global Market
 
 Okay, here is a comprehensive summary of DeepSeek, designed for a viewer who may not have heard of it before.
 
