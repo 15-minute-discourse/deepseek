@@ -26,6 +26,22 @@ Don't forget to *like the video* if you found it insightful, and *subscribe* to 
 
 ---
 
+- [DeepSeek's Sputnik Moment: What It Means for Silicon Valley AI ventures?!](#deepseeks-sputnik-moment-what-it-means-for-silicon-valley-ai-ventures)
+  - [DeepSeek: A Geopolitical AI Powerhouse](#deepseek-a-geopolitical-ai-powerhouse)
+  - [DeepSeek's AI: Cost, Reasoning, and Geopolitics](#deepseeks-ai-cost-reasoning-and-geopolitics)
+  - [DeepSeek: Disrupting the AI Landscape](#deepseek-disrupting-the-ai-landscape)
+  - [DeepSeek: Geopolitical Implications and Market Impact](#deepseek-geopolitical-implications-and-market-impact)
+  - [DeepSeek: Efficiency, Business Model, and Open-Source Risks](#deepseek-efficiency-business-model-and-open-source-risks)
+  - [DeepSeek: AI Innovation in China](#deepseek-ai-innovation-in-china)
+  - [DeepSeek, Western AI, and the Future of AI Development](#deepseek-western-ai-and-the-future-of-ai-development)
+  - [DeepSeek: A Sputnik Moment in AI](#deepseek-a-sputnik-moment-in-ai)
+  - [DeepSeek's Impact on Big Tech Investments](#deepseeks-impact-on-big-tech-investments)
+  - [DeepSeek's Disruption: A New Era in AI](#deepseeks-disruption-a-new-era-in-ai)
+  - [DeepSeek: A Chinese AI Company Disrupting the Global Market](#deepseek-a-chinese-ai-company-disrupting-the-global-market)
+
+
+---
+
 ## DeepSeek: A Geopolitical AI Powerhouse
 
 Okay, after reviewing our conversation and the sources, here are some additional topics and analyses that would be interesting for our target audience, keeping in mind a Western YouTube audience:
